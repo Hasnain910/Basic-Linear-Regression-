@@ -13,9 +13,9 @@ Features:
  
 Libraries used:
 
-numpy
-matplotlib
-scikit-learn
+- numpy
+- matplotlib
+- scikit-learn
 
 
 Usage:
